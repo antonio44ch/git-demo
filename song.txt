@@ -7,5 +7,10 @@ e
 f
 g
 h
+fs
+f
+s
+fs
+
 
 end of the song
