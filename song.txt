@@ -7,7 +7,16 @@ e
 f
 g
 h
+fs
+f
+s
+fs
 
+<<<<<<< HEAD
 third coup
 
 end of the song
+=======
+
+end of the song v
+>>>>>>> dc3d5041ec5af00a2b85d1d814aa113753d069f6
